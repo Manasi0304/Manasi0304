@@ -1,5 +1,8 @@
+![linkdin_bg](https://github.com/user-attachments/assets/9deec270-c58e-4261-aee6-ee3eb427f244)
+
+
 <h1 align="center">Hi 👋, I'm Manasi Bharati</h1>
-<h3 align="center">A passionate Data Science , Full Stack Web Developer</h3>
+<h3 align="center">"Full-Stack Developer | Machine Learning Enthusiast | Cloud Innovator with Proven Project Success and Leadership Skills" </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasi0304&label=Profile%20views&color=0e75b6&style=flat" alt="manasi0304" /> </p>
 
@@ -13,12 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [manasi0304](manasi0304)
 
-- 📫 How to reach me **manasibharati94@gmail.com**
+- 📫 How to reach me **manasibharati94@gmail.com , +91 8329174703 **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tENs0OzbpIsiKRNJV3H4u5skY_fBkd1B/view?usp=sharing](https://drive.google.com/file/d/1tENs0OzbpIsiKRNJV3H4u5skY_fBkd1B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/manasibharati0403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasibharati0403" height="30" width="40" /></a>
 <a href="https://instagram.com/manasi_0403_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasi_0403_" height="30" width="40" /></a>
 </p>
 
